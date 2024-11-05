@@ -1,0 +1,467 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1727098069728975, "dur":41384, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098069770385, "dur":179, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098069770626, "dur":300, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098069770973, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771089, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771209, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771297, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771375, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771453, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771516, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771650, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771744, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771828, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771908, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727098069771966, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772069, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772152, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772311, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772419, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772534, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772615, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069772948, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773059, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773114, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773218, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773282, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773385, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773453, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773579, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773636, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773745, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773806, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069773971, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774035, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774110, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774166, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774244, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774330, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774386, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774463, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774568, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774641, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774711, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774788, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774851, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069774927, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775037, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775107, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775255, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775318, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775386, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775469, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775555, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775617, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775690, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775761, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775820, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775906, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069775976, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776107, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776181, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776266, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776329, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776431, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776614, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776679, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776752, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776822, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776897, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069776954, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777072, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777173, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777296, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777360, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777435, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777511, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777608, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069777707, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778040, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778139, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778202, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778300, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778360, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778457, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778518, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778577, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778632, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778775, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778847, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069778941, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779026, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779087, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779148, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779297, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779498, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779580, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779720, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779802, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779886, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069779964, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780049, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780134, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780223, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780308, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780387, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780468, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780578, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780667, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780752, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780878, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D.exe" }}
+,{ "pid":12345, "tid":0, "ts":1727098069780955, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781044, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781115, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781182, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781256, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781337, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781396, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781582, "dur":214, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781869, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781933, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069781994, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782072, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782151, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782272, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782406, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782463, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782550, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782638, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782717, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782780, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782869, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1727098069782949, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727098069770962, "dur":12048, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098069783012, "dur":687549, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098070470790, "dur":3964, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1727098069772279, "dur":10751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727098069783038, "dur":9099, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727098069811005, "dur":692, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1727098069811706, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727098069812116, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069812689, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069812859, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813028, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813161, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813320, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813480, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813681, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813827, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069813940, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069814068, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069814177, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069814303, "dur":461, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069814766, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069814952, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069815174, "dur":350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069815526, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069815682, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069815801, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069815963, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069816214, "dur":769, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069816988, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069817143, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\R2A\\Downloads\\SOS\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727098069817446, "dur":177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5558ffdc-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1727098069811703, "dur":6198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727098069818653, "dur":94, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727098069819253, "dur":639328, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727098070467937, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727098070467935, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727098070468191, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069772679, "dur":10381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069783064, "dur":1475, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069784540, "dur":1328, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069785868, "dur":6283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069792178, "dur":229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727098069792160, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727098069799300, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069795108, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727098069799578, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069799977, "dur":3164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069803259, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069803249, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069803396, "dur":184, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069807796, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069804975, "dur":2908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069808109, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069808106, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069808233, "dur":3917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069812347, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1727098069813099, "dur":3312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1727098069816572, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069816569, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069822108, "dur":216, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069816672, "dur":5675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069822429, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069822422, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069822540, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069842044, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069822669, "dur":19505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1727098069845277, "dur":11336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069860852, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069856705, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069861294, "dur":3129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069864533, "dur":6771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069879932, "dur":127, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069871432, "dur":8809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069880771, "dur":204, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069889223, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069880984, "dur":8412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069889835, "dur":2831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069892910, "dur":2858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069895887, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069898623, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069898699, "dur":2800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069901659, "dur":2866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069904636, "dur":100, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069904742, "dur":3142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069908012, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069908096, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069910572, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069912879, "dur":3105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069918218, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069916134, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069918505, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069920954, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069923742, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069930112, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069926221, "dur":4012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069930697, "dur":3242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069937377, "dur":211, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069934097, "dur":3546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069937877, "dur":155, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069942621, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069938037, "dur":4714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069946514, "dur":396, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069942914, "dur":4011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069947045, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069947209, "dur":3709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069951133, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069954106, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069951228, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069957314, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069954398, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069957634, "dur":2803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069960561, "dur":3378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069964058, "dur":266, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069968516, "dur":187, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069964330, "dur":4447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069968922, "dur":167, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069969098, "dur":2701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069971892, "dur":9129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069981168, "dur":4395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069990004, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069985799, "dur":4339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069994870, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069990326, "dur":4828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098069995254, "dur":124, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070001703, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098069995384, "dur":6574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098070002115, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070002222, "dur":4524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098070006883, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098070011857, "dur":399, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070009533, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098070012575, "dur":3991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727098070016721, "dur":434, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1727098070016719, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1727098070017881, "dur":2241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1727098070020333, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1727098070025177, "dur":125, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070023215, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1727098070025533, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1727098070042774, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070028045, "dur":15120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1727098070043338, "dur":14565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727098070058274, "dur":129, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070058414, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1727098070062007, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070065537, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070062160, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727098070065797, "dur":11237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1727098070077339, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070077490, "dur":29021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727098070113043, "dur":366, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727098070106808, "dur":6702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1727098070113705, "dur":356731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069772650, "dur":10397, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069783051, "dur":1518, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069784570, "dur":1236, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069785807, "dur":912, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069786719, "dur":5430, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069792180, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069792161, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069793981, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069794098, "dur":7901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069802318, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1727098069805346, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069802433, "dur":3050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1727098069805599, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069806287, "dur":2345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069808815, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1727098069808922, "dur":5796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1727098069814984, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069815922, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069818906, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727098069819407, "dur":2540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727098069822040, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069822121, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069824005, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069822321, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727098069824447, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727098069827726, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069825679, "dur":2305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727098069828154, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069828150, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069828691, "dur":4229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069833021, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069833019, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069833126, "dur":6399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D.exe" }}
+,{ "pid":12345, "tid":3, "ts":1727098069839795, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1727098069839877, "dur":76, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069839959, "dur":130, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069841231, "dur":14673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1727098069872695, "dur":188, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069856284, "dur":16680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069873105, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069876026, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069882043, "dur":253, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069878914, "dur":3410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069882651, "dur":6898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069889677, "dur":2829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069892805, "dur":3333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069896285, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069898696, "dur":2659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069901497, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069907271, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069904397, "dur":3101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069907670, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069913010, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069910659, "dur":2588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069913614, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069916644, "dur":2552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069919359, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069921807, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069924368, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069930155, "dur":248, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069927328, "dur":3091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069932686, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069930533, "dur":2273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069932998, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069937025, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069940002, "dur":3179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069943310, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069943391, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069946266, "dur":2542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069948936, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069952048, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069952153, "dur":2966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069955264, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069961098, "dur":116, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069957887, "dur":3390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069961432, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069964745, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069961524, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069965033, "dur":4592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069977677, "dur":100, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069969772, "dur":8093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069978059, "dur":99, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069983986, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069978166, "dur":6091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069984423, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069984520, "dur":3531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069988180, "dur":5000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098069993371, "dur":6364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070005331, "dur":126, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098069999875, "dur":5644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070005654, "dur":3470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070009291, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098070012239, "dur":323, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098070009388, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070015604, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098070012985, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070015786, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727098070018385, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098070102688, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727098070018454, "dur":84355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1727098070103029, "dur":4327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1727098070107542, "dur":362954, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069772788, "dur":10344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069783133, "dur":1444, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069784578, "dur":1274, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069785853, "dur":1109, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069786963, "dur":5184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069792173, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069792285, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/TTT3D_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1727098069809814, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069813014, "dur":116, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069810803, "dur":2399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1727098069813234, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069813206, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069813332, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069813692, "dur":4422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069818205, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727098069821170, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069818299, "dur":2959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727098069821455, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069821451, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069821919, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1727098069824233, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727098069824555, "dur":5139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727098069829886, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069829883, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069830191, "dur":26342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069856630, "dur":7152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069867176, "dur":2214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069863974, "dur":6131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069870560, "dur":3287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069874040, "dur":2486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069879348, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069876625, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069879639, "dur":5985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069885752, "dur":5342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069891336, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069891452, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069894281, "dur":33450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069927885, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069928014, "dur":2945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069931135, "dur":3174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069937392, "dur":107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069934426, "dur":3094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069937663, "dur":3033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069943359, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069940943, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069943770, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069946591, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069943891, "dur":3010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069947043, "dur":4462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069951600, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069954757, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069954849, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069957893, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069964020, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069960884, "dur":3215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069964211, "dur":2901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069967319, "dur":4023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069980475, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069971459, "dur":9100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069980722, "dur":6645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069990582, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069987559, "dur":3202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069990860, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069997704, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098069990951, "dur":6830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098069997971, "dur":5390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070003584, "dur":3708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070007448, "dur":2654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070013488, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098070010311, "dur":3362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070013791, "dur":96, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098070013894, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/TTT3D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070017139, "dur":207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070017136, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/R2A/Downloads/SOStest/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070127699, "dur":236, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727098070017375, "dur":110615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/R2A/Downloads/SOStest/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727098070128135, "dur":342283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727098070479941, "dur":4165, "ph":"X", "name": "ProfilerWriteOutput" }
+,
